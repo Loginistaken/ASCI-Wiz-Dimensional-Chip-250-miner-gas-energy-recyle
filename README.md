@@ -41,3 +41,13 @@ Base power draw drops ~550W | ~17% saved |
 🟢 Total System Savings: 💡 ~22–34W directly recycled internally 🔌 ~550–650W saved via load optimization and active cooling logic
 
 📉 From a 3,200W system → now draws ~2,600W 📈 Net Savings: ~600W = ~18.7% to 20.3%
+Component	Function	Material / Technology	Reference / Link
+Transparent Shell	Protects and displays interior, absorbs IR radiation	Doped silicon glass or IR-absorbing polymer	IR-absorbing Polymer
+TEG Modules (x3)	Convert heat from ASIC chips into electricity	Bi₂Te₃ Thermoelectric Generator	TEG Module Example
+Micro Airflow Turbines	Captures fan exhaust flow and converts to electricity	Miniature axial turbines + micro-generator	Micro Turbine Reference
+EM & Vibration Harvesters	Recycles electromagnetic and kinetic energy	Piezoelectric and coil-based harvester	Vibration Energy Harvesting
+AI-Controlled Smart Board	Reduces fan overuse, powers logic circuits via recycled power	Embedded microcontroller + power management	Smart Fan Control
+Infrared Film + Transparent Shell	Absorbs IR, converts some to electricity	IR photovoltaic film, doped glass	IR Photovoltaic Film
+Phase Change Material (PCM)	Increases efficiency of heat-to-electricity process	Paraffin-based or salt hydrate PCM	PCM Reference
+Smart Energy Routing + Buffering	Stores and reroutes power via supercapacitors	Supercapacitors, power routing ICs	Supercapacitor Basics
+Internal Load Optimization	Refined PCB, lower power control unit, lightweight shell	High-efficiency components, composite shell	PCB Power Optimization
