@@ -42,6 +42,8 @@ Base power draw drops ~550W | ~17% saved |
 
 📉 From a 3,200W system → now draws ~2,600W 📈 Net Savings: ~600W = ~18.7% to 20.3%
 
+
+
 Component	Function	Material / Technology	Reference / Link
 Transparent Shell	Protects and displays interior, absorbs IR radiation	Doped silicon glass or IR-absorbing polymer	IR-absorbing Polymer
 TEG Modules (x3)	Convert heat from ASIC chips into electricity	Bi₂Te₃ Thermoelectric Generator	TEG Module Example
