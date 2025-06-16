@@ -16,7 +16,7 @@ Powered by an AI-driven control hub, your system becomes truly intelligent. The 
 
 Designed with modularity at its core, this platform welcomes next-gen AI chipsets, quantum modules, and cutting-edge cooling solutions—making upgrades seamless and future-proof.
 
-Set a new standard. Experience mining that’s powerful, efficient, and transparent—inside and out.
+Set a new standard. Experience mining that’s powerful, efficient, and see through inside and out.
 
 Most hardware today focuses on thermal control via fans or hydro-cooling, often wasting latent energy sources. This device reimagines that model by harvesting heat, vibration, airflow, electromagnetic fields, and even infrared radiation — all within the same compact shell. It doesn’t just manage energy—it reclaims it.
 This is an ecosystem where nothing is wasted, and every movement, every degree, every pulse is harnessed.
