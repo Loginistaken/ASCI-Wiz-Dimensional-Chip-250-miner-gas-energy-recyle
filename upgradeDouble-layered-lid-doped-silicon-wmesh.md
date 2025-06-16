@@ -77,3 +77,75 @@ Circuit contacts	Gold-plated spring + micro switch pair
 Signal switch	Magnetic reed switch
 Insulation	Silicone gasket, fireproof epoxy (if sealed)
 Optional Add-ons	Thermal LED indicators, manual override fuse, AI sensor
+⚙️ DESIGN: CHIMNEY LID STRUCTURE (Sectional Breakdown)
+Layer	Material / Doping	Function
+Top Layer	Doped silicon (Phosphorus-doped for n-type behavior)	Heat capture, mechanical structure
+Middle Layer	Graphene mesh + Bi₂Te₃ contact grid	Conducts heat, EM fields, and electric charge
+Bottom Layer	Doped silicon (Boron-doped for p-type behavior)	EM/IR absorption, heat sink interface
+
+🧩 This structure functions like a PN-junction slab to allow microcurrent harvesting across the graphene interface, acting as:
+
+    Infrared → DC conversion surface
+
+    EM → inductive harvesting layer
+
+    Heat → TEG surface boost
+
+    Charge separator due to P-N gradient & graphene conduction
+
+🧲 MATERIAL & ELEMENTAL DOPING STRATEGY
+
+Top (n-type):
+
+    Phosphorus (P): Enhances electron mobility
+
+    Indium (In): Increases thermal stability at higher mining temps
+
+Bottom (p-type):
+
+    Boron (B): Classic doping for hole mobility
+
+    Tellurium (Te): Boosts IR photon-electron conversion with Bi₂Te₃ (also a core of TEG modules)
+
+Graphene Layer:
+
+    Sandwiched as etched mesh on top of TEG circuits and between silicon layers
+
+    Directs heat, vibration, and EM radiation into:
+
+        Piezo nodes for vibration → electricity
+
+        EM coils for inductive pickup
+
+        Supercapacitors for energy storage
+
+🔗 MECHANICAL RELEASE & CIRCUIT DISCONNECT COMPONENTS
+
+When the manual chimney lever is pulled, we need a safe disconnect from harvesting circuits. These are key parts:
+Component	Function
+Spring-loaded pin connectors	Allow clean electrical disconnects when lid is lifted
+Rotary magnetic detacher	Uses a magnetic switch to open low-voltage contacts
+Thermal bypass switch	Routes any remaining thermal energy to side TEGs before venting
+Latch release limiter	Prevents disconnection under load (only opens after AI confirms safe state)
+
+Optional:
+
+    Graphene flap membrane inside chimney can still harvest radiative energy as heat escapes passively.
+
+🔁 ENERGY REDIRECTION WHEN CHIMNEY IS OPEN
+
+    Piezo/EM/TEG harvesting is disconnected from lid.
+
+    Energy harvesting is redirected to internal lower modules via:
+
+        Sidewall TEG strips
+
+        Central PCM-matrix below CPUs
+
+        Rear cooling airflow turbine
+
+🧪 BONUS UPGRADE IDEAS
+Add-on	Function
+Graphene-based phase-change gel between chimney layers	Stores heat and slows release (delays thermal loss during opening)
+Photonic routing layer	Converts IR photons directly to electric flow via embedded graphene-photon chip
+Smart hinge sensor	AI notifies system when chimney is open and shifts energy routing profile
