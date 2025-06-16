@@ -68,16 +68,33 @@ Piezo Matrix	300×200 mm	Base + edge of frame
 OLED Panel	200×30 mm	Front panel (touch-visual)
 Coil Wrap System	30–50 mm loops	Around PSU, control frame, and fans
 Expansion Ports	Modular panel	Rear – AI, quantum, cache plug-ins
+
 🔋 PROJECTED ENERGY GAINS — 10× Architecture
 Energy Source	Legacy (10 units)	Next-Gen Unified Model	Net Reclaimed
-TEG Output	0W	120–180W	✅ Recycled
-IR Harvesting	0W	20–30W	✅ Captured via shell
-Vibration	0W	5–10W	✅ Baseframe embedded
-Airflow Turbines	0W	25–35W	✅ Rear capture zone
-EM Field Recycle	0W	2–5W	✅ PSU/fan zones
-AI Optimization Logic	0W	45–60W	✅ Predictive routing
-PCM Thermal Boost	-	+30W to TEGs	✅ Efficiency bump
-System Routing Gains	-	+100W system-wide	✅ Reduced losses
+TEG Output	0W	120–180W	
+
+✅ Recycled
+IR Harvesting	0W	20–30W	
+
+✅ Captured via shell
+Vibration	0W	5–10W	
+
+✅ Baseframe embedded
+Airflow Turbines	0W	25–35W	
+
+✅ Rear capture zone
+EM Field Recycle	0W	2–5W	
+
+✅ PSU/fan zones
+AI Optimization Logic	0W	45–60W	
+
+✅ Predictive routing
+PCM Thermal Boost	-	+30W to TEGs	
+
+✅ Efficiency bump
+System Routing Gains	-	+100W system-wide	
+
+✅ Reduced losses
 📊 Energy Summary
 
     🔁 Total Direct Energy Recycled: ~250–300W
