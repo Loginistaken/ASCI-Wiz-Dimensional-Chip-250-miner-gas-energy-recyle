@@ -104,10 +104,7 @@ System Routing Gains	-	+100W system-wide
 
     ⚡ From ~32,000W → ~28,600W draw
 
-    ✅ ~10.6% internal energy recycled
-
-    ✅ 12–14% system-wide energy saved
-
+    
 🧠 AI & MODULAR UPGRADE READY
 ⚙️ Future-Slot Upgrades
 
