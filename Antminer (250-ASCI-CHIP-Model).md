@@ -7,7 +7,7 @@ Redesign the Antminer to:
 
 ✅ Recycle heat, vibration, airflow, infrared, and EM radiation
 
-✅ Support 250 CPU/ASIC boards across 5 sliding trays, each with individual hydro-fan-cooled slots
+✅ Support 250 CPU/ASIC boards across 10 sliding trays, each with individual hydro-fan-cooled slots
 
 ✅ Use one modular doped-silicon chassis for thermal unification and structural integrity
 
