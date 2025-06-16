@@ -57,6 +57,7 @@ Supercapacitor Bank	Energy buffer for recycled load + smoothing PSU demand	Graph
 PCM Matrix Core	Shared cooling enhancer below TEG and ASIC beds	Paraffin + salt hydrate fusion matrix
 3D Flow Optimization Mesh	Strategic air routing per tray and rear chamber	Bio-polymer directional mesh (removable + washable)
 Expansion I/O Dock	Rear slot for AI, Quantum, or Blockchain Coprocessors	PCIe-compatible low-voltage backplane
+
 📐 RECOMMENDED DIMENSIONS (Large-Scale Shell for 10 CPUs)
 Element	Size	Placement
 Shell Height	420 mm	Full unit height
