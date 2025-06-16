@@ -12,7 +12,7 @@ But here are additional next-level ideas you can incorporate to push efficiency 
 
     What it does: Carbon nanotubes (CNTs) offer ultra-fast heat conduction (better than copper).
 
-    Where to use: Layer between CPU boards and the PCM/TEG blocks.
+    Where to use: Layer between ASCI CHIP AND 10 boards system and the PCM/TEG blocks.
 
     Why it helps: Delivers more uniform and faster heat transfer to your thermoelectric harvesters.
 
@@ -83,7 +83,7 @@ Smart Energy Re-loop Logic (AI-driven)	-200W draw (zone dependent)
 
     🔋 35–40% total internal energy recycled
 
-    🌬️ Up to 1,600–2,000W reduced PSU demand (10-stack model)
+    🌬️ Up to 1,600–2,000W reduced PSU demand (10-stack model Of 250 ASCI CIPS)
 
     ⚙️ True self-powered cooling, logic, and routing subsystems
 
