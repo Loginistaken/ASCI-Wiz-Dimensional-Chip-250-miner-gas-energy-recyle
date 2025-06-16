@@ -1,13 +1,13 @@
 ⚙️ Next-Generation Transparent Antminer (250-ASIC CHIP Stack Model)
 
-Optimized for modularity, recyclability, and 10× compute throughput, while maintaining energy savings and full adaptability to AI/quantum future upgrades.
+Optimized for modularity, recyclability, and 250 ASCI CHIPS/10 STACKS compute throughput, while maintaining energy savings and full adaptability to AI/quantum future upgrades.
 🔧 CORE OBJECTIVE (Expanded)
 
 Redesign the Antminer to:
 
 ✅ Recycle heat, vibration, airflow, infrared, and EM radiation
 
-✅ Support 250 CPU/ASIC boards across 3 sliding trays, each with individual hydro-fan-cooled slots
+✅ Support 250 CPU/ASIC boards across 5 sliding trays, each with individual hydro-fan-cooled slots
 
 ✅ Use one modular doped-silicon chassis for thermal unification and structural integrity
 
@@ -19,7 +19,7 @@ Redesign the Antminer to:
 
 ✅ Allow plug-in upgrades: AI chipsets, quantum sensors, photonic cache, or cooling modules
 
-✅ Maintain ≥30% net energy savings, even at 10× ASIC load
+✅ Maintain ≥30% net energy savings, even at 250× ASIC load
 
 ✅ Serve as a modular, scalable, and upgradeable mining ecosystem
 
@@ -44,10 +44,10 @@ Why One Large Unit?
 
     Each CPU tray includes mini hydro fans, quick-disconnects, and maintenance levers
 
-🔩 UPDATED PARTS LIST & PURPOSE (10-CPU MODEL)
+🔩 UPDATED PARTS LIST & PURPOSE (10 STACKS WITH 250 ASCI CHIPS MODEL)
 Component	Function	Material / Technology
 Unified Transparent Shell	Visual protection + IR harvesting	Large doped silicon glass w/ IR photovoltaic overlay
-TEG Module Cluster (x10)	Converts heat from each ASIC board	Bi₂Te₃ matrix + upgraded PCB with PCM contact points
+TEG Module Cluster (250 ASCI CHIPS/10)	Converts heat from each ASIC board	Bi₂Te₃ matrix + upgraded PCB with PCM contact points
 Quad Micro Turbine Array	Airflow energy recovery from exhaust channels	Axial turbine grid + neodymium generators
 Piezo Vibration Matrix	Harvests vibrational energy from base + rack rails	PVDF piezo layer embedded in chassis
 OLED Diagnostic Display	Real-time energy, heat, and performance visual	Transparent 16:9 OLED w/ thermographic overlay
@@ -58,7 +58,7 @@ PCM Matrix Core	Shared cooling enhancer below TEG and ASIC beds	Paraffin + salt 
 3D Flow Optimization Mesh	Strategic air routing per tray and rear chamber	Bio-polymer directional mesh (removable + washable)
 Expansion I/O Dock	Rear slot for AI, Quantum, or Blockchain Coprocessors	PCIe-compatible low-voltage backplane
 
-📐 RECOMMENDED DIMENSIONS (Large-Scale Shell for 10 CPUs)
+📐 RECOMMENDED DIMENSIONS (Large-Scale Shell for 10 STACKS WITH 250 ASCI CHIPS)
 Element	Size	Placement
 Shell Height	420 mm	Full unit height
 Shell Width	280 mm	Front face
@@ -71,7 +71,7 @@ Coil Wrap System	30–50 mm loops	Around PSU, control frame, and fans
 Expansion Ports	Modular panel	Rear – AI, quantum, cache plug-ins
 
 🔋 PROJECTED ENERGY GAINS — 10× Architecture
-Energy Source	Legacy (10 units)	Next-Gen Unified Model	Net Reclaimed
+Energy Source	Legacy (10 units OF 250 ASCI CHIPS)	Next-Gen Unified Model	Net Reclaimed
 TEG Output	0W	120–180W	
 
 ✅ Recycled
@@ -127,7 +127,7 @@ System Routing Gains	-	+100W system-wide
     OLED Diagnostics Panel: Displays thermographic maps, real-time power metric
 
 
-⚡ Advanced Energy-Recycling Upgrades (Include ALL in 10-Stack Build)
+⚡ Advanced Energy-Recycling Upgrades (Include ALL in 10-Stack OF 250 ASCI CHIPS Build)
 1. Nanotube-Based Heat Conduits
 
     What: Integrate carbon nanotube (CNT) layers between each CPU/ASIC and PCM/TEG block
@@ -168,7 +168,7 @@ System Routing Gains	-	+100W system-wide
     What: Route recycled energy from a graphene supercapacitor bank directly to power hydro fans and control logic
     Why: Uses harvested energy to reduce or eliminate draw from the main PSU, creating a self-sustaining loop for cooling and logic
     Placement: AI-controlled logic layer for dynamic, demand-based routing of recycled watts
-    Estimated Gain: -100 to -200W PSU draw per 10-stack zone (true self-loop possible in optimized segments)
+    Estimated Gain: -100 to -200W PSU draw per 250 ASCI CHIPS zone (true self-loop possible in optimized segments)
 
 📊 Combined Upgrade Stack – Estimated Gains
 Upgrade Concept	Extra Recycled Energy Potential
@@ -187,10 +187,10 @@ Smart Energy Re-loop Logic (AI-driven)	-100 to -200W PSU draw (per zone)
     Add at least one mini-TPE under the baseplate for mechanical cycle harvesting
     Ensure AI logic and supercaps actively power fans and control logic for true self-powered operation
 
-🚀 Projected Results (10-Stack Model)
+🚀 Projected Results (250 ASCI CHIPS Model)
 
     35–40% total internal energy recycled
-    1,600–2,000W reduced PSU demand (10-stack)
+    1,600–2,000W reduced PSU demand (10-stackOF 250 ASCI CHIPS)
     True self-powered cooling, logic, and routing subsystems
     Net-zero or negative draw zones possible with optimal tuning
 
