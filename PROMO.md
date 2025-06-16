@@ -1,6 +1,7 @@
 🌐 Redefining the Future of Mining Hardware
 
-Step into the next era of crypto mining with a platform that’s as innovative as it is transparent. Introducing the world’s first fully upgradeable, self-powering, and visually immersive mining ecosystem—engineered to grow with you, not outdate you.
+Step into the next era of crypto mining with a platform that’s as innovative as it is transparent. Introducing the world’s first fully upgradeable, designed to save energy, recycle electricty and visually immersive mining ecosystem—engineered to grow with you, not outdate you.
+
 👀 See the Difference — Transparent Innovation
 
 Break away from the ordinary. Our unique transparent shell, crafted from high-tech doped glass or polymer, transforms the miner into a living showcase of advanced engineering. Watch as heat is recycled, airflow turbines spin, and energy flows—making every watt and every process visible, tangible, and inspiring a deeper connection between you and your machine.
