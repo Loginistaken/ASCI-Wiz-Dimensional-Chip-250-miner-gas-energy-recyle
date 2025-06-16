@@ -60,11 +60,11 @@ But here are additional next-level ideas you can incorporate to push efficiency 
 
 6. Energy Re-Use Feedback Loop (Supercap → Fan Injection)
 
-    What it does: Directs recycled energy from supercapacitors to power hydro fans or logic boards.
+    Directs recycled energy from supercapacitors to power hydro fans or logic boards.
 
-    Where to use: Logic layer managing recycled power routing.
+    use: Logic layer managing recycled power routing.
 
-    Why it helps: Uses your own recycled watts to run the fans/logics — net zero internal draw.
+    Why: Uses your own recycled watts to run the fans/logics — net zero internal draw.
 
     🔋 Estimated gain: -100 to -200W draw from primary PSU = true self-loop in zones.
 
@@ -76,7 +76,8 @@ Photonic Bandgap Conversion Layer	+4–6%
 Magnetostrictive EM Core	+2–5%
 Thermal Gradient Engine (Mini-TPE)	+3–5%
 Smart Energy Re-loop Logic (AI-driven)	-200W draw (zone dependent)
-⚒️ Final Recommendation
+
+⚒️ Final
 
 ✅ Stack these with your current build, and you could exceed:
 
@@ -85,4 +86,9 @@ Smart Energy Re-loop Logic (AI-driven)	-200W draw (zone dependent)
     🌬️ Up to 1,600–2,000W reduced PSU demand (10-stack model)
 
     ⚙️ True self-powered cooling, logic, and routing subsystems
+
+    Double-layered doped silicon chassis for unified thermal management and structural integrity
+    Graphene mesh between silicon layers for enhanced heat and electrical conduction
+    Thermoelectric Generators (TEGs), EM coils, and piezoelectric harvesters for multi-source energy capture
+    AI/Quantum-ready mainboard for thermal logic optimization and future expansion
 
