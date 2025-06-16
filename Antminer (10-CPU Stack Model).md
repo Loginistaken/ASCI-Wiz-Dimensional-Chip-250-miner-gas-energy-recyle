@@ -19,7 +19,7 @@ Redesign the Antminer to:
 
 ✅ Allow plug-in upgrades: AI chipsets, quantum sensors, photonic cache, or cooling modules
 
-✅ Maintain ≥20% net energy savings, even at 10× ASIC load
+✅ Maintain ≥30% net energy savings, even at 10× ASIC load
 
 ✅ Serve as a modular, scalable, and upgradeable mining ecosystem
 
