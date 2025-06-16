@@ -1,4 +1,4 @@
-⚙️ Next-Generation Transparent Antminer (10-ASIC CHIP Stack Model)
+⚙️ Next-Generation Transparent Antminer (250-ASIC CHIP Stack Model)
 
 Optimized for modularity, recyclability, and 10× compute throughput, while maintaining energy savings and full adaptability to AI/quantum future upgrades.
 🔧 CORE OBJECTIVE (Expanded)
@@ -7,7 +7,7 @@ Redesign the Antminer to:
 
 ✅ Recycle heat, vibration, airflow, infrared, and EM radiation
 
-✅ Support 10 CPU/ASIC boards across 3 sliding trays, each with individual hydro-fan-cooled slots
+✅ Support 250 CPU/ASIC boards across 3 sliding trays, each with individual hydro-fan-cooled slots
 
 ✅ Use one modular doped-silicon chassis for thermal unification and structural integrity
 
