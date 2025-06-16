@@ -128,3 +128,72 @@ System Routing Gains	-	+100W system-wide
     Self-Optimization: Diagnoses weak zones, reroutes power/load
 
     OLED Diagnostics Panel: Displays thermographic maps, real-time power metric
+
+
+⚡ Advanced Energy-Recycling Upgrades (Include ALL in 10-Stack Build)
+1. Nanotube-Based Heat Conduits
+
+    What: Integrate carbon nanotube (CNT) layers between each CPU/ASIC and PCM/TEG block
+    Why: CNTs deliver ultra-fast, uniform heat transfer (outperforming copper), maximizing TEG efficiency
+    Placement: Between each logic board and its thermal interface (PCM/TEG)
+    Estimated Gain: +5–8% thermal-to-electric conversion
+
+2. Triboelectric Nanogenerators (TENG)
+
+    What: Install TENGs to capture electricity from friction and movement (especially airflow turbulence)
+    Why: Harvests mechanical energy lost as shell vibration or turbulent airflow
+    Placement: Embedded between airflow ducts, under/around fan blades, and in vibration-prone shell zones
+    Estimated Gain: +2–4% electricity from passive airflow
+
+3. Photonic Bandgap Layer (Enhanced Near-IR Conversion)
+
+    What: Add photonic bandgap materials to convert waste near-infrared radiation into usable light for photovoltaic harvesting
+    Why: Captures blackbody IR radiation with higher efficiency than traditional IR films
+    Placement: Between doped silicon layers and on the shell’s outer surface, paired with a high-efficiency PV overlay
+    Estimated Gain: +4–6% from IR-to-light recycling
+
+4. Magnetostrictive EM Core
+
+    What: Use magnetostrictive coil cores beneath/around the PSU and logic hubs to transform magnetic field changes into electric power
+    Why: Recovers energy from high-frequency PSU switching and ASIC signal chatter
+    Placement: Coils and magnetostrictive material wraps around PSU, logic boards, and fans
+    Estimated Gain: +2–5% from EM signal recycling
+
+5. Thermal Gradient-Driven Phase Engine (Mini-TPE)
+
+    What: Deploy a micro piston or membrane engine below the baseplate, driven by phase change fluids and hot/cold cycling
+    Why: Converts natural temperature oscillations into mechanical motion and harvestable energy
+    Placement: Below the PCM/TEG assemblies at the base of the stack
+    Estimated Gain: +3–5% under consistent thermal cycling
+
+6. Energy Re-Use Feedback Loop (Supercap → Fan/Logic Injection)
+
+    What: Route recycled energy from a graphene supercapacitor bank directly to power hydro fans and control logic
+    Why: Uses harvested energy to reduce or eliminate draw from the main PSU, creating a self-sustaining loop for cooling and logic
+    Placement: AI-controlled logic layer for dynamic, demand-based routing of recycled watts
+    Estimated Gain: -100 to -200W PSU draw per 10-stack zone (true self-loop possible in optimized segments)
+
+📊 Combined Upgrade Stack – Estimated Gains
+Upgrade Concept	Extra Recycled Energy Potential
+Nanotube Thermal Pathways	+5–8%
+Triboelectric Nanogenerators (TENG)	+2–4%
+Photonic Bandgap Conversion Layer	+4–6%
+Magnetostrictive EM Core	+2–5%
+Thermal Gradient Engine (Mini-TPE)	+3–5%
+Smart Energy Re-loop Logic (AI-driven)	-100 to -200W PSU draw (per zone)
+
+🏆 Final 
+
+    Six advanced upgrades alongside the baseline build for maximum impact
+    Explicitly use carbon nanotube heat conduits, TENG harvesters, and photonic bandgap technology
+    Upgrade all EM induction coils to magnetostrictive materials
+    Add at least one mini-TPE under the baseplate for mechanical cycle harvesting
+    Ensure AI logic and supercaps actively power fans and control logic for true self-powered operation
+
+🚀 Projected Results (10-Stack Model)
+
+    35–40% total internal energy recycled
+    1,600–2,000W reduced PSU demand (10-stack)
+    True self-powered cooling, logic, and routing subsystems
+    Net-zero or negative draw zones possible with optimal tuning
+
