@@ -1,4 +1,4 @@
-⚙️ Next-Generation Transparent Antminer (10-CPU Stack Model)
+⚙️ Next-Generation Transparent Antminer (10-ASIC CHIP Stack Model)
 
 Optimized for modularity, recyclability, and 10× compute throughput, while maintaining energy savings and full adaptability to AI/quantum future upgrades.
 🔧 CORE OBJECTIVE (Expanded)
