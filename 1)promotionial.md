@@ -147,6 +147,7 @@ Upgrade	Function	Estimated Gain
 🔹 AI-Smart Re-Loop (Fan/Logic Power)	Self-powering subsystem	-100 to -200W PSU draw
 
 Combined Result:
+
 🔋 Recycles 35–40% of internal energy.
 🔻 Reduces PSU load by up to 2,000W in 10-stack config.
 🌀 Enables self-powered zones (logic + fans).
