@@ -19,7 +19,7 @@ Testing	Use automated yield binning	AI-inspect for faulty units to reduce waste
 
 💸 Target Cost Breakdown (Per Chip)
 Category	Est. Cost	Notes
-SiC Substrate	$8–12	Tough, affordable alternative to sapphire
+SiC Substrate	$8–12	
 Doped Si Logic Layer	$5–8	Standard P/N doping
 Limited Graphene Interface	$8–10	Only where heat or signal optimization is needed
 Bismuth Doping	$3–5	Light introduction in gate/control zones
@@ -28,7 +28,7 @@ AI NMIF Interface	$8–12	Low-cost AI-interactive sensor bus
 Fab & Packaging	$60–100	Includes wafer process, packaging, and QA
 Total	$95–140 per chip	Achievable in 10k+ batch volume
 
-🧠 Why This Chip is "Smart" for Crypto:
+🧠 This Chip is "Smart" for Crypto:
 
     AI CPU Compatibility
     Works with external AI CPUs to dynamically:
