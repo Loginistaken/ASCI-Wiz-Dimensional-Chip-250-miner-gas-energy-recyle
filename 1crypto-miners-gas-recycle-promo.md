@@ -5,7 +5,27 @@
 Built for the next decade, this Antminer system is not just a hardware upgrade — it’s a radical transformation. 
 Designed from the silicon up, this 10-stack platform supports 250 ultra-high-speed ASIC chips in a unified, 
 intelligent architecture that recycles energy, learns in real time, and future-proofs your mining farm.
+🔋 Energy Recycling: From Passive to Active Recovery
 
+Forget waste. We turn every lost watt into an opportunity.
+Energy Source	Legacy Output	X250™ Output	Recovery Method
+Thermoelectric (TEG)	0W	180W	Bi₂Te₃ + CNT-enhanced thermal blocks
+IR Radiation	0W	30W	Photonic bandgap + PV overlay
+Vibration	0W	10W	Piezo + TENG matrix
+Airflow	0W	35W	Micro-turbines + triboelectric fins
+EM Fields	0W	5W	Magnetostrictive induction cores
+Smart Routing (AI Logic)	0W	60W	Predictive load-balancing AI
+PCM-Boost to TEG	—	+30W	Salt hydrate paraffin core
+System-Level Optimization	—	+100W	Central routing + AI-controlled
+TOTAL GAIN	~0W	~300W+	All harvested and reused
+
+🛠️ Unmatched Features & Innovation
+
+✅ Doped Silicon Housing: One seamless chassis to unify thermals, airflow, and structure.
+✅ Manual Chimney Lever: Adjustable exhaust flow for farm-level optimization.
+✅ AI/Quantum Upgrade Ready: Expansion dock for neural or photonic co-processors.
+✅ Transparent OLED Display: Real-time thermographic feedback on unit health.
+✅ Carbon Nanotube Heat Paths: Copper-free, ultra-fast thermal transfer.
 🔧 CORE INNOVATIONS
 
 
@@ -108,19 +128,6 @@ this ASIC array scales like no other.
     One solid silicon shell case ensures structural strength, thermal unification, 
     and minimal material duplication — a chassis that thinks like a machine and breathes like an organism.
 
-🔋 Energy Recycling: From Passive to Active Recovery
-
-Forget waste. We turn every lost watt into an opportunity.
-Energy Source	Legacy Output	X250™ Output	Recovery Method
-Thermoelectric (TEG)	0W	180W	Bi₂Te₃ + CNT-enhanced thermal blocks
-IR Radiation	0W	30W	Photonic bandgap + PV overlay
-Vibration	0W	10W	Piezo + TENG matrix
-Airflow	0W	35W	Micro-turbines + triboelectric fins
-EM Fields	0W	5W	Magnetostrictive induction cores
-Smart Routing (AI Logic)	0W	60W	Predictive load-balancing AI
-PCM-Boost to TEG	—	+30W	Salt hydrate paraffin core
-System-Level Optimization	—	+100W	Central routing + AI-controlled
-TOTAL GAIN	~0W	~300W+	All harvested and reused
 
 💡 FUTURE-FORWARD EXPANSION
 
