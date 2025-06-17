@@ -2,10 +2,10 @@
 
 🧬 Core Design Specifications
 Component	Material/Tech	Purpose	Budgeted Enhancement
-Substrate	Silicon Carbide (SiC)	Heat resistance, substrate for chip logic	Replaces sapphire, saves $30–50
+Substrate	Silicon Carbide (SiC)	Heat resistance, substrate for chip logic	
 Logic Layer	Doped Silicon (Boron + Phosphorus)	Traditional ASIC logic gates	Stable, proven, compatible
 Interface Layer	Graphene (limited to EM/heated zones)	Adds thermal/electrical speed paths	Minimal CVD graphene ($10 max)
-Heat Dissipation	Gold-plated contact points only	Efficient thermal dissipation at pins	Reduces gold use by ~80%
+Heat Dissipation	Gold-plated contact points only	Efficient thermal dissipation at pins	
 Control Layer	Light Bismuth doping	Adds AI-receptive spin-orbit coupling	Enables smarter interaction
 AI Sync Sensor	Low-cost neural matrix interface (NMIF)	Routes data to external AI CPU	~$10 sensor
 Packaging	Ceramic epoxy or basic epoxy resin	Insulation + durability	Inexpensive, heat-safe
