@@ -40,7 +40,7 @@ Why One Large Unit?
 
 🔄 Access Design:
 
-    3 Sliding Racks for CPUs (holds 3–4 ASICs per tray)
+    10 Sliding Racks for ASCI (holds 25 ASICs per tray)
 
     Each CPU tray includes mini hydro fans, quick-disconnects, and maintenance levers
 
