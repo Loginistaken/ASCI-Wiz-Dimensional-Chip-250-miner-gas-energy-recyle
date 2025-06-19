@@ -147,7 +147,8 @@ all
 You requested “all” regarding the file heatmeasurement-logic.py. Here’s a comprehensive response covering:
  File Contents Overview
 
-This file is a multi-part template for an advanced energy-monitoring and diagnostics system, designed for an Antminer or similar hardware. It contains:
+This file is a multi-part template for an advanced energy-monitoring and diagnostics system,
+designed for an ASCI Wiz‑Bit‑Chipor similar hardware. It contains:
 
     Embedded Firmware Template (C):
         Monitors four energy channels: Photonic, IR, EM, TEG.
