@@ -1,4 +1,4 @@
-This project redesigns an Antminer to use a high-density array of 250 ASIC chips (arranged in 10 rows), with a focus on maximizing energy efficiency. The build integrates advanced energy recycling (heat, vibration, airflow, IR, EM) and uses optimized materials and smart control logic to target at least 20% net energy savings.
+This project redesigns Crypto mining devices to use a high-density array of 250 ASCI Wiz‑Bit‑Chip (arranged in 10 rows), with a focus on maximizing energy efficiency. The build integrates advanced energy recycling (heat, vibration, airflow, IR, EM) and uses optimized materials and smart control logic to target at least 20% net energy savings.
 1. System Architecture
 
     Processing Core:
