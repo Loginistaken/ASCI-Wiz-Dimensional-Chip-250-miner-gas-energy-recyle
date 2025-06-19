@@ -1,4 +1,4 @@
-advanced firmware for the energy-recycling Antminer system, integrating logic for AI coordination, energy relay, and battery interaction
+advanced firmware for the energy-recycling ASCI Wiz‑Bit‑Chip Mining device system, integrating logic for AI coordination, energy relay, and battery interaction
   universal firmware template for STM32/ESP32/RP2040, tightly integrated with the energy recycling and battery interaction standards described in your pasted spec and the 3Antminer (250-ASCI-CHIP-Model).md document.
 1. 🌐 Compliance Web Portal (React + FastAPI)
 
@@ -248,7 +248,7 @@ C
 #include "ai_coordinator.h" // Optional: AI optimization logic
 #include "compliance_cert.h"// Compliance data
 
-#define DEVICE_ID "ANTMNR-250CHIP-00001"
+#define DEVICE_ID "ASCI Wiz‑Bit‑Chip-250CHIP-00001"
 
 void process_command(const char *cmd) {
     if (strncmp(cmd, "GET_DEVICE_ID", 13) == 0) {
@@ -343,7 +343,7 @@ void ai_coordinator_init(void);
 void ai_coordinator_task(void);
 void ai_set_mode(const char *mode);
 
-How to extend for your Antminer (250-ASIC CHIP Model):
+How to extend for your ASCI Wiz‑Bit‑Chip Crypto Mining device (250-ASIC CHIP Model):
 
     Add specific drivers for each energy-recycling module (TEG, fans, piezo, IR, etc.).
     Implement detailed battery/relay state machines and protection logic.
