@@ -140,4 +140,4 @@ In a 100-rig deployment:
     🔋 SmartRegen PowerCore™ v2.0
     Cost: ~$407
     Safe. Modular. Fireproof. Grid-light.
-    Specifically designed for Next generation transparent Antminer X250™, but scalable for any modern ASIC farm.
+    Specifically designed for Next generation transparent ASCI Wiz‑Bit‑Chip Crypto Mining Device X250™, but scalable for any modern ASIC farm.
