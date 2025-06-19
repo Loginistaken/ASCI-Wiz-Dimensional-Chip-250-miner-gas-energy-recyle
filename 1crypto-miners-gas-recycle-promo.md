@@ -217,7 +217,7 @@ AI/Quantum Ready		✅ Yes
 
     AI/Quantum Future-Proof Design
 
-From Quantum AI modules to photonic cache expansion, this Antminer is a framework that scales with the future.
+From Quantum AI modules to photonic cache expansion, this 250X Wiz-Bit-Chip device is a framework that scales with the future.
 
 📦 Ideal Use Cases
 
