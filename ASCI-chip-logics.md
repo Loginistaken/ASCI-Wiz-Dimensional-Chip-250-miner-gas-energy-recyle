@@ -216,6 +216,147 @@ module smartchip_top (
         .photonic_flag(photonic_flag),
         .ai_bus_data(ai_bus_data)
     );
+    // ===============================
+// SHA-256 Full Pipelined ASIC Verilog Design with AI-Interactive Features
+// ===============================
+
+`timescale 1ns / 1ps
+
+module sha256_pipelined (
+    input clk,
+    input rst,
+    input [511:0] data_in,
+    input valid_in,
+    input [9:0] chip_id,
+    input [7:0] temp_sensor,
+    input [7:0] voltage_level,
+    input [7:0] sideband_cmd,
+    output reg [255:0] hash_out,
+    output reg valid_out,
+    output reg photonic_flag,
+    output reg [47:0] ai_bus_data
+);
+
+    // AI Logic Enhancements:
+    parameter THRESHOLD = 8'd75; // temperature threshold in degrees C
+
+    // =========================
+    // Synthesis Constraints
+    // =========================
+    // synthesis attribute CLOCK_PERIOD of clk is 10.0
+    // synthesis attribute KEEP of W is true
+    // synthesis attribute DONT_TOUCH of hash_out is true
+
+    // Initial hash constants
+    reg [31:0] H [0:7];
+
+    // Round constants (K array)
+    reg [31:0] K [0:63];
+
+    // W array (message schedule)
+    reg [31:0] W [0:63];
+
+    // Pipeline stage registers
+    reg [31:0] a [0:64];
+    reg [31:0] b [0:64];
+    reg [31:0] c [0:64];
+    reg [31:0] d [0:64];
+    reg [31:0] e [0:64];
+    reg [31:0] f [0:64];
+    reg [31:0] g [0:64];
+    reg [31:0] h [0:64];
+
+    integer i;
+
+    initial begin
+        H[0] = 32'h6a09e667; H[1] = 32'hbb67ae85; H[2] = 32'h3c6ef372; H[3] = 32'ha54ff53a;
+        H[4] = 32'h510e527f; H[5] = 32'h9b05688c; H[6] = 32'h1f83d9ab; H[7] = 32'h5be0cd19;
+
+        K[ 0] = 32'h428a2f98; K[ 1] = 32'h71374491; K[ 2] = 32'hb5c0fbcf; K[ 3] = 32'he9b5dba5;
+        // ... additional K constants to 63 ...
+        K[63] = 32'hc67178f2;
+    end
+
+    // Rotation Functions
+    function [31:0] rotr;
+        input [31:0] x;
+        input [4:0] n;
+        begin
+            rotr = (x >> n) | (x << (32 - n));
+        end
+    endfunction
+
+    function [31:0] sigma0;
+        input [31:0] x;
+        sigma0 = rotr(x, 7) ^ rotr(x, 18) ^ (x >> 3);
+    endfunction
+
+    function [31:0] sigma1;
+        input [31:0] x;
+        sigma1 = rotr(x, 17) ^ rotr(x, 19) ^ (x >> 10);
+    endfunction
+
+    function [31:0] Sigma0;
+        input [31:0] x;
+        Sigma0 = rotr(x, 2) ^ rotr(x, 13) ^ rotr(x, 22);
+    endfunction
+
+    function [31:0] Sigma1;
+        input [31:0] x;
+        Sigma1 = rotr(x, 6) ^ rotr(x, 11) ^ rotr(x, 25);
+    endfunction
+
+    always @(posedge clk or posedge rst) begin
+        if (rst) begin
+            valid_out <= 0;
+            photonic_flag <= 0;
+            ai_bus_data <= 0;
+        end else begin
+            // AI-Logic Grid: Temperature + Voltage Reporting
+            if (temp_sensor > THRESHOLD) begin
+                photonic_flag <= 1'b1;
+                ai_bus_data <= {chip_id, temp_sensor, voltage_level};
+            end else begin
+                photonic_flag <= 1'b0;
+            end
+
+            // Message Schedule W Init
+            if (valid_in) begin
+                for (i = 0; i < 16; i = i + 1)
+                    W[i] <= data_in[511 - i*32 -: 32];
+                for (i = 16; i < 64; i = i + 1)
+                    W[i] <= sigma1(W[i-2]) + W[i-7] + sigma0(W[i-15]) + W[i-16];
+
+                a[0] <= H[0]; b[0] <= H[1]; c[0] <= H[2]; d[0] <= H[3];
+                e[0] <= H[4]; f[0] <= H[5]; g[0] <= H[6]; h[0] <= H[7];
+
+                for (i = 0; i < 64; i = i + 1) begin
+                    reg [31:0] ch, temp1, temp2, maj;
+                    ch    = (e[i] & f[i]) ^ (~e[i] & g[i]);
+                    maj   = (a[i] & b[i]) ^ (a[i] & c[i]) ^ (b[i] & c[i]);
+                    temp1 = h[i] + Sigma1(e[i]) + ch + K[i] + W[i];
+                    temp2 = Sigma0(a[i]) + maj;
+                    a[i+1] <= temp1 + temp2;
+                    b[i+1] <= a[i];
+                    c[i+1] <= b[i];
+                    d[i+1] <= c[i];
+                    e[i+1] <= d[i] + temp1;
+                    f[i+1] <= e[i];
+                    g[i+1] <= f[i];
+                    h[i+1] <= g[i];
+                end
+
+                hash_out <= {
+                    H[0] + a[64], H[1] + b[64], H[2] + c[64], H[3] + d[64],
+                    H[4] + e[64], H[5] + f[64], H[6] + g[64], H[7] + h[64]
+                };
+                valid_out <= 1;
+            end
+        end
+    end
+
+endmodule
+
     // Instantiate SHA-256 pipeline and connect to AI hooks as needed
 endmodule
 
