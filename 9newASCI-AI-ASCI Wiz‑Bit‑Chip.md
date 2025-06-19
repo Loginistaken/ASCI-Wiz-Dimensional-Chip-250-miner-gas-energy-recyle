@@ -1,4 +1,4 @@
-🔧 Smart-Budget ASIC Chip v1.0 – Crypto-Mining & AI Interactive
+🔧 Smart-Budget ASCI Wiz‑Bit‑Chip – Crypto-Mining & AI Interactive
 
 🧬 Core Design Specifications
 Component	Material/Tech	Purpose	Budgeted Enhancement
