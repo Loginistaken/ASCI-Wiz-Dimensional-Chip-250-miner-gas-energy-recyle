@@ -61,7 +61,7 @@ TOTAL GAIN	~0W	~300W+	All harvested and reused
 
 🔍 Inside the 250× ASIC Stack: The Heart of Hyper-Efficient Mining
 
-At the core of the Transparent Next-Generation Antminer X250™ lies a stacked configuration of 250 next-gen ASIC chips,
+At the core of the Transparent Next-Generation ASCI Wiz‑Bit‑Chip X250™ lies a stacked configuration of 250 next-gen ASIC chips,
 each custom-enhanced for mathematical speed, thermal management, and modular AI integration.
 
 These aren't your legacy ASICs. Each chip is part of a vertically coordinated array, bonded to a nano-layered 
@@ -84,7 +84,7 @@ Key breakthroughs in this ASIC stack include:
     eliminating bottlenecks common in dense mining rigs.
 AI-Interactive ASICs: Smart Chips with Self-Diagnostics & Energy Efficiency
 
-At the core of the transparent Next-Generation Antminer X250™ is a radical redefinition of what an ASIC chip can be. 
+At the core of the transparent Next-Generation ASCI Wiz‑Bit‑Chip X250™ is a radical redefinition of what an ASIC chip can be. 
 Each of the 250 custom-engineered AI-compatible ASICs features:
 🔹 Individual Intelligence
 
