@@ -347,7 +347,7 @@ SQL
 -- For per-ASIC and per-Fan health logging
 CREATE TABLE component_status (
     id SERIAL PRIMARY KEY,
-    device_id VARCHAR(64),          -- e.g. antminer serial
+    device_id VARCHAR(64),          -- e.g. Wiz-Bit-Chip x250 Crypto Mining Device serial
     component VARCHAR(32),          -- e.g. ASIC-001, FAN-01
     timestamp TIMESTAMP DEFAULT NOW(),
     status VARCHAR(16),             -- OK, FAIL, HOT, etc.
