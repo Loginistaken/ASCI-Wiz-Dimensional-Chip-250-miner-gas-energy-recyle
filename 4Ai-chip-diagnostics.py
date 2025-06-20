@@ -167,7 +167,7 @@ designed for an ASCI Wiz‑Bit‑Chipor similar hardware. It contains:
     AI Optimization Example:
         Rule-based energy routing and load balancing (Python).
 
-   How to Expand/Adapt for Next-Gen Antminer (250 ASIC, 10 Stacks, Modular, AI-Ready)
+   How to Expand/Adapt for Next-Gen Wiz-Bit-Chip X250 Crypto Mining Device (250 ASIC, 10 Stacks, Modular, AI-Ready)
 A. Embedded Firmware
 
     Extend channel logic:
