@@ -54,23 +54,28 @@ AI-interactive ASIC chip design, and they remain logically integrated with the p
 Here's a clear breakdown of how they’re implemented in code logic, chip architecture, and AI interaction strategy,
 ensuring your design remains unique and future-compatible:
 
-✅ Retained AI-Interactive Features (As Previously Designed)
+✅ Retained AI-Interactive Features 
 Feature	Description	Implementation Type	Current Status in Design
 Photonic Feedback	Light-based AI signaling for chip status	
 
-✅ Integrated via optical layer over core (uses micro LED emitters tied to fault/thermal flags)	✔️ Still active
+✅ Integrated via optical layer over core (uses micro LED emitters tied to fault/thermal flags)	
+✔️ Still active
 Logic Hook Grid	Real-time logic introspection	
 
-✅ AI-interceptable gate checkpoint hooks (flagged logic gates emit state values over AI bus)	✔️ Still active
+✅ AI-interceptable gate checkpoint hooks (flagged logic gates emit state values over AI bus)	
+✔️ Still active
 TEG Sensors	Thermoelectric generator zones for thermal feedback	
 
-✅ TEG matrix with temp-to-voltage mapping — reports to AI CPU every 0.25s	✔️ Retained
+✅ TEG matrix with temp-to-voltage mapping — reports to AI CPU every 4 sec.
+✔️ Retained
 Clock Scaling	AI can modulate ASIC chip's clock/voltage dynamically	
 
-✅ Internal PLL accessible via AI-control bus	✔️ Still supported
+✅ Internal PLL accessible via AI-control bus	
+✔️ Still supported
 Sideband Bus	Parallel bus for AI CPU commands bypassing main logic flow	
 
-✅ UART/I2C or optical bus side-channel directly linked to each chip	✔️ Preserved
+✅ UART/I2C or optical bus side-channel directly linked to each chip	
+✔️ Preserved
 
 🔁 ASIC chip as not just a hasher, but an adaptive AI-participant:
 
