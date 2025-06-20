@@ -461,7 +461,7 @@ def log_to_backend(device_id, status):
 
 def main():
     ser = serial.Serial(SERIAL_PORT, BAUD, timeout=1)
-    device_id = "ANTMINER-001"  # Replace with dynamic fetch if available
+    device_id = "Wiz-Bit-chip x250 Crypto Mining Device-001"  # Replace with dynamic fetch if available
     while True:
         line = ser.readline().decode('utf-8').strip()
         if line:
