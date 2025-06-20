@@ -1,5 +1,5 @@
 advanced firmware for the energy-recycling ASCI Wiz‑Bit‑Chip Mining device system, integrating logic for AI coordination, energy relay, and battery interaction
-  universal firmware template for STM32/ESP32/RP2040, tightly integrated with the energy recycling and battery interaction standards described in your pasted spec and the 3Antminer (250-ASCI-CHIP-Model).md document.
+  universal firmware template for STM32/ESP32/RP2040, tightly integrated with the energy recycling and battery interaction standards described in your pasted spec and the Wiz-Bit-Chip Crypto Mining Device (250-ASCI-CHIP-Model).md document.
 1. 🌐 Compliance Web Portal (React + FastAPI)
 
 Directory Structure:
