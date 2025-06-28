@@ -231,6 +231,8 @@ EM Field Recycling	7	0.02%
 AI PSU/Fan Optimization	75	0.23%
 System Routing Logic	120	0.38%
 Sideband Photonic Feedback	50	0.16%
+
+
 Totals	5,987W	18.71%
 
 Final Thoughts
