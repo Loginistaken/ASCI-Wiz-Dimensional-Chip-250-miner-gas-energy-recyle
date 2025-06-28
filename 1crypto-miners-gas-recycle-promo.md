@@ -185,6 +185,8 @@ Sideband Signaling & Photonic Feedback (AI real-time control)	50W	0.16%	Energy S
 Category	Total Watts (Min)	Percent of Total System Power (32,000W)
 Total Energy Recycled (harvested waste energy sources)	652W	2.04%
 Total Energy Saved (AI-driven, advanced materials & passive cooling)	5,335W	16.67%
+
+
 Combined Total Energy Reduced (Saved + Recycled)	5,987W	18.71%
 
 💡 Key Takeaways
