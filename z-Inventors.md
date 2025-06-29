@@ -30,4 +30,4 @@ The system reframes what a computation engine can be:
 An adaptive thermal-electric lattice, where every electron counts twice—once for logic, once for reclamation.
 
 Intellectual Property Notice:
-Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot). All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
+Invented and conceptually developed by Eric C. Lindau. Assisted through AI-aided co-engineering environments (ChatGPT, GitHub Copilot)as well as bring special thanks OpenAI gpt chat for bring us the images. All combinatorial elements, structural mappings, material configurations, and thermoelectric AI feedback systems are attributed to the inventor and may be subject to protection under applicable copyright, intellectual property, and patent frameworks.
