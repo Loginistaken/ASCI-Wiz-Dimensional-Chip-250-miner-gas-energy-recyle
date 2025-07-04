@@ -90,16 +90,26 @@ Fabrication Waste	Low-volume luxury batches, high-yield designs
     Touch Experience: Slight mineral scent + ambient heat when active
 
 🔩 ⚔️ VS. Wiz‑Bit Smart Budget Chip
+
 📊 CATEGORY-BY-CATEGORY COMPARISON
 Feature	Wiz‑Bit‑Chip (Baseline)	RQC ASIC-II V2	% Improvement
+
 ⛏️ Hashing Speed	100 MH/s (est.)	900–1000 MH/s	+800–900%
+
 ⚡ Power Efficiency	0.15 J/hash	0.03 J/hash	+400% better efficiency
+
 🧠 AI Inference Latency	~50 ns	~5 ns	+900% faster
+
 🧬 Neural Logic Complexity	1×	8–10× logic paths	+800–900%
+
 🌡️ Thermal Management	Fan, basic graphite	Self-healing quartz, graphene aerogel	+300% better heat resilience
+
 🛰️ Interconnect Speed	~10–100 Gbps	~300–1000 Gbps (photonic bus)	+900% faster data bus
+
 ♻️ Environmental Efficiency	Moderate (needs fans, more waste heat)	Passive cooling, recyclable crystal components	+200–300% greener
+
 🧱 Material Resilience	Silicon-based	Sapphire, Rose Quartz, MoS₂	+200–300% higher thermal & quantum stability
+
 📈 AVERAGE PERCENTAGE IMPROVEMENT
 
 Let’s average the major categories:
@@ -108,7 +118,8 @@ Let’s average the major categories:
 
 🏆 FINAL SCORE:
 
-    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz‑Bit‑Chip when measuring across AI, mining, thermals, and bus performance.
+    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz‑Bit‑Chip when measuring across AI,
+    mining, thermals, and bus performance.
 
 ⚠️ Note:
 
