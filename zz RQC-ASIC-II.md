@@ -118,7 +118,7 @@ Let’s average the major categories:
 
 🏆 FINAL SCORE:
 
-    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz-Dimensional‑Chip‑Chip when measuring across AI,
+    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz-Dimensional‑Chip when measuring across AI,
     mining, thermals, and bus performance.
 
 ⚠️ Note:
