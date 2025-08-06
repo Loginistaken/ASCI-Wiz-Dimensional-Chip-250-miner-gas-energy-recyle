@@ -15,7 +15,7 @@ Contact Pins	Gold-plated – now embedded like root veins into the quartz via la
 Packaging	Transparent rose-gold quartz shell + graphene aerogel internal sheath
 
 
-💡 5 SMART AI FEATURES NOW MATCHING Wiz‑Bit:
+💡 5 SMART AI FEATURES NOW MATCHING Wiz‑Dimensional:
 AI Feature	Implementation in RQC ASIC-II v2
 
 🔁 Photonic Feedback	Micro-lattice emitters glow by temp/error; signal picked up by AI CPU's photonic decoder
