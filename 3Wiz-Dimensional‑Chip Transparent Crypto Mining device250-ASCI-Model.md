@@ -1,4 +1,4 @@
-⚙️ Next-Generation Transparent Crypto Mining device (250-ASIC Wiz-Bit-Chip Stack Model)
+⚙️ Next-Generation Transparent Crypto Mining device (250-ASIC Wiz-Dimensional‑Chip Stack Model)
 
 Optimized for modularity, recyclability, and 250 ASCI CHIPS/10 STACKS compute throughput, 
 while maintaining energy savings and full adaptability to AI/quantum future upgrades.
@@ -189,7 +189,7 @@ Smart Energy Re-loop Logic (AI-driven)	-100 to -200W PSU draw (per zone)
     Add at least one mini-TPE under the baseplate for mechanical cycle harvesting
     Ensure AI logic and supercaps actively power fans and control logic for true self-powered operation
 
-🚀 Projected Results (250 ASCI CHIPS Model)
+🚀 Projected Results (250 ASCI CHIPS Model)Wiz-Dimensional‑Chip
 
     35–40% total internal energy recycled
     1,600–2,000W reduced PSU demand (10-stackOF 250 ASCI CHIPS)
