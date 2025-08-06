@@ -89,10 +89,10 @@ Fabrication Waste	Low-volume luxury batches, high-yield designs
 
     Touch Experience: Slight mineral scent + ambient heat when active
 
-🔩 ⚔️ VS. Wiz‑Bit Smart Budget Chip
+🔩 ⚔️ VS. Wiz-Dimensional‑Chip Smart Budget Chip
 
 📊 CATEGORY-BY-CATEGORY COMPARISON
-Feature	Wiz‑Bit‑Chip (Baseline)	RQC ASIC-II V2	% Improvement
+Feature	Wiz-Dimensional‑Chip (Baseline)	RQC ASIC-II V2	% Improvement
 
 ⛏️ Hashing Speed	100 MH/s (est.)	900–1000 MH/s	+800–900%
 
@@ -118,16 +118,16 @@ Let’s average the major categories:
 
 🏆 FINAL SCORE:
 
-    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz‑Bit‑Chip when measuring across AI,
+    ✅ RQC ASIC-II V2 is approximately _600% better_ on average than the Wiz-Dimensional‑Chip‑Chip when measuring across AI,
     mining, thermals, and bus performance.
 
 ⚠️ Note:
 
     The RQC is more expensive, harder to mass-produce, and requires specialized firmware.
 
-    The Wiz‑Bit is cheaper, simpler, and mass-manufacturable, but much slower and less efficient.
+    The Wiz-Dimensional‑Chip is cheaper, simpler, and mass-manufacturable, but much slower and less efficient.
 
-Comparison	RQC-ASIC-II	Wiz‑Bit Chip Speed	
+Comparison	RQC-ASIC-II	Wiz-Dimensional‑Chip Speed	
 
 ✅ Faster via photonic + AI	Great, but limited to silicon logic
 Power Draw	
