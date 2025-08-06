@@ -167,7 +167,7 @@ designed for an ASCI Wiz‑Bit‑Chipor similar hardware. It contains:
     AI Optimization Example:
         Rule-based energy routing and load balancing (Python).
 
-   How to Expand/Adapt for Next-Gen Wiz-Bit-Chip X250 Crypto Mining Device (250 ASIC, 10 Stacks, Modular, AI-Ready)
+   How to Expand/Adapt for Next-Gen Wiz-Dimensional‑Chip X250 Crypto Mining Device (250 ASIC, 10 Stacks, Modular, AI-Ready)
 A. Embedded Firmware
 
     Extend channel logic:
@@ -347,7 +347,7 @@ SQL
 -- For per-ASIC and per-Fan health logging
 CREATE TABLE component_status (
     id SERIAL PRIMARY KEY,
-    device_id VARCHAR(64),          -- e.g. Wiz-Bit-Chip x250 Crypto Mining Device serial
+    device_id VARCHAR(64),          -- e.g.Wiz-Dimensional‑Chip x250 Crypto Mining Device serial
     component VARCHAR(32),          -- e.g. ASIC-001, FAN-01
     timestamp TIMESTAMP DEFAULT NOW(),
     status VARCHAR(16),             -- OK, FAIL, HOT, etc.
@@ -461,7 +461,7 @@ def log_to_backend(device_id, status):
 
 def main():
     ser = serial.Serial(SERIAL_PORT, BAUD, timeout=1)
-    device_id = "Wiz-Bit-chip x250 Crypto Mining Device-001"  # Replace with dynamic fetch if available
+    device_id = "Wiz-Dimensional‑Chip x250 Crypto Mining Device-001"  # Replace with dynamic fetch if available
     while True:
         line = ser.readline().decode('utf-8').strip()
         if line:
